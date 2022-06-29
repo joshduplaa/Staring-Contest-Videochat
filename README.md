@@ -6,3 +6,4 @@ Following youtube guide and refering to the forked github repo from adrianhajdin
     Peer.js Framework for P2P connections
     Front End built with React and Material UI (probably going to change)
     Node.js server Backend
+    NPM Depedencies: cors express nodemon socket.io
