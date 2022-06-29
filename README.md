@@ -1,4 +1,5 @@
 # Staring Contest video chat app
+Following youtube guide and refering to the forked github repo from adrianhajdin. Can be found on my account.
 
 ## Video Chat created with:
     WebRTC API for realtime A/V in browser
